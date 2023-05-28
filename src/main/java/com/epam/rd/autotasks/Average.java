@@ -21,6 +21,6 @@ public class Average {
         for (String s : strNums2) {
             average += Integer.parseInt(s);
         }
-        System.out.println(average/count);
+        System.out.println(average / count);
     }
 }
